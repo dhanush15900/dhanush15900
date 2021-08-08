@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhanush15900
-- 👀 I’m interested in electronics and coding stuff with pythin and java.
+- 👀 I’m interested in electronics and coding stuff with python and java.
 - 🌱 I’m currently pursuing my under graduation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saidhanush15900@gmail.com
